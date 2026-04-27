@@ -31,6 +31,9 @@ As an **Industrial Civil Engineer**, I identified a systemic inefficiency in man
 * **Interface:** Next.js & Tailwind CSS (Professional, minimalist UI).
 * **Intelligence:** Google Vertex AI for real-time entity extraction (Date, Time, Subject).
 * **Execution:** Direct integration with Google Calendar API via OAuth 2.0.
-
+---
+## 📁 Source Code
+The complete source code, including the Electron configuration and Vertex AI logic, can be reviewed here: 
+[Link al Repositorio o Carpeta]
 ---
 *Document Code: APP-AI-001 | Industrial Engineering Portfolio*
