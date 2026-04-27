@@ -27,7 +27,7 @@ I apply professional rigor and traceability to all technical developments, using
 ### 🛠️ Strategic Stack
 - **Languages:** Python, Visual Basic (VBA), DAX, C++, React Node (junior-starter).
 - **Systems:** ERP, SAP (Production Planning), Oracle, Confluence.
-- **Methods:** Agile/Scrum, Lean, Kaizen, DMAIC, Pareto Analysis.
+- **Methods:** Agile/Scrum, PMBOK8, Lean, Kaizen, DMAIC/DMADV, Pareto Analysis, MILP Formulations, Heuristics, Simulation.
 
 ---
 ### 📬 Contact & Advisory
