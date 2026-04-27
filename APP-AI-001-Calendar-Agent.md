@@ -34,6 +34,6 @@ As an **Industrial Civil Engineer**, I identified a systemic inefficiency in man
 ---
 ## 📁 Source Code
 The complete source code, including the Electron configuration and Vertex AI logic, can be reviewed here: 
-[Link al Repositorio o Carpeta]
+-> Project folder: https://github.com/Lucasvegasep/calendar-agent-ai
 ---
 *Document Code: APP-AI-001 | Industrial Engineering Portfolio*
