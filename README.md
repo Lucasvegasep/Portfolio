@@ -14,7 +14,7 @@ Industrial Civil Engineer with over 7 years of experience optimizing complex pro
 ---
 
 ### 📊 Standardized Engineering Portfolio
-I apply professional rigor and traceability to all technical developments, using standardized documentation codes.
+Standardized documentation codes.
 
 | Project ID | Focus Area | Technology & Impact |
 | :--- | :--- | :--- |
