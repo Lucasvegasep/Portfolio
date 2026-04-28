@@ -29,7 +29,7 @@ Applied a rigorous industrial engineering approach to mitigate a $79,233 USD ann
 ---
 
 ### 📁 Source Code
-The complete analytical logic, including the statistical fitting scripts and KPI calculation engines, can be reviewed here: -> Project folder: https://github.com/Lucasvegasep/Logistics-Performance-Analysis
+The complete analytical logic, including the statistical fitting scripts and KPI calculation engines, can be reviewed here: -> Project folder: https://github.com/Lucasvegasep/supplier-quality-regression
 
 ---
 **Document Code: STRAT-MOD-001 | Industrial Engineering Portfolio**
