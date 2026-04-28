@@ -43,8 +43,7 @@ As an **Industrial Civil Engineer**, I identified systemic inefficiencies in the
 ### 📁 Source Code
 
 The complete analytical logic, including the statistical fitting scripts and KPI calculation engines, can be reviewed here:
--> **Project folder:** [https://github.com/Lucasvegasep/logistics-optimization-gamma](https://github.com/Lucasvegasep/logistics-optimization-gamma)
-
+-> **Project folder:** https://github.com/Lucasvegasep/Logistics-Performance-Analysis
 ---
 
 **Document Code: LOG-STRAT-001 | Industrial Engineering Portfolio**
