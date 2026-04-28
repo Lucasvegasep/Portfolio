@@ -35,4 +35,8 @@ As an **Industrial Civil Engineer**, I applied the **DMAIC** methodology to solv
 
 ---
 
+📁 Source Code
+The complete analytical logic, including the statistical fitting scripts and KPI calculation engines, can be reviewed here: -> Project folder: https://github.com/Lucasvegasep/Logistics-Performance-Analysis
+
+---
 **Document Code: QA-DMAIC-001 | Industrial Engineering Portfolio**
